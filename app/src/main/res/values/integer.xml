@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="stall_name1">1</integer>
+    <integer name="stall_name2">2</integer>
+    <integer name="stall_name3">3</integer>
+    <integer name="stall_name4">4</integer>
+    <integer name="stall_name5">5</integer>
+    <integer name="stall_name6">6</integer>
+    <integer name="stall_name7">7</integer>
+    <integer name="stall_name8">8</integer>
+    <integer name="stall_name9">9</integer>
+    <integer name="stall_name10">10</integer>
+    <integer name="stall_name11">11</integer>
+    <integer name="stall_name12">12</integer>
+    <integer name="stall_name13">13</integer>
+    <integer name="stall_name14">14</integer>
+    <integer name="stall_name15">15</integer>
+    <integer name="stall_name16">16</integer>
+    <integer name="stall_name17">17</integer>
+    <integer name="stall_name18">18</integer>
+    <integer name="stall_name19">19</integer>
+    <integer name="stall_name20">20</integer>
+    <integer name="stall_name21">21</integer>
+    <integer name="stall_name22">22</integer>
+    <integer name="stall_name23">23</integer>
+
+
+
+
+
+</resources>

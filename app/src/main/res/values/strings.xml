@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">street_treat</string>
+    <string name="stall_name1">Punjabi Dhaba</string>
+    <string name="stall_name2">Chai ka Chaska</string>
+    <string name="stall_name3">Fantastic Fast Food</string>
+    <string name="stall_name4">Hamara Hot Dog</string>
+    <string name="stall_name5">Laxmi Food Court</string>
+    <string name="stall_name6">Secret Sweet Corn</string>
+    <string name="stall_name7">Doner Kabab</string>
+    <string name="stall_name8">Pyaar se Pizza</string>
+    <string name="stall_name9">HHG is here</string>
+    <string name="stall_name10">Chandu ChikenFry</string>
+    <string name="stall_name11">Itaewon Classes</string>
+    <string name="stall_name12">Eat and repeat</string>
+    <string name="stall_name13">Dearest</string>
+    <string name="stall_name14">Peaceful plate</string>
+    <string name="stall_name15">Rajashree Cakes</string>
+    <string name="stall_name16">Timeout</string>
+    <string name="stall_name17">Treat or teeth</string>
+    <string name="stall_name18">Sweet lovers</string>
+    <string name="stall_name19">Ye jagah hai japani</string>
+    <string name="stall_name20">Have a taste</string>
+    <string name="stall_name21">Time for Desserts</string>
+    <string name="stall_name22">Chop Shop</string>
+    <string name="stall_name23">Try Street\'s Choice</string>
+
+</resources>
