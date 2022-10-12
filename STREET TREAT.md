@@ -17,4 +17,26 @@ To save time, students can just order food on the app, the app returns the time 
 
 Another advantage of this app is it will show all the shops registered with the app, which can be small business as well. This will help support and promote small stalls and shops along with big or standard restaurants.
 
-<img src = "https://user-images.githubusercontent.com/65994349/195005333-bde5ee87-f0aa-40e9-ab99-167660f919ad.jpg" width = 200/>
+
+## Application Images : 
+<img src="https://user-images.githubusercontent.com/65994349/195243309-05ca5115-1d00-4f16-bea7-6d2b76a8313c.png" width = 600/>
+<img src = "https://user-images.githubusercontent.com/65994349/195243564-ede80897-3a98-4f3c-9f83-1cdc74eaff10.png" width = 900/>
+<img src = "https://user-images.githubusercontent.com/65994349/195243684-e2bb5179-0f3a-4fb7-8420-7471f6ea323d.png" width = 900/>
+<img src = "https://user-images.githubusercontent.com/65994349/195243774-46bf2468-5346-4864-ae0a-9c31f5e60aee.png" width = 600/>
+<img src = "https://user-images.githubusercontent.com/65994349/195243857-865d8481-baad-472e-bb23-da8370d195c1.png" width = 900/>
+<img src = "https://user-images.githubusercontent.com/65994349/195243873-a11fdb02-0c8d-4e0d-b353-cf75fe5933d1.png" width = 900/>
+
+
+## Functionality & Concept :
+
+The App has a very simple and interactive interface that helps the user to order food from local shops without having to wait in long queues. Following are a few android concepts used to achieve the functionalities in the app:
+
+Constraint Layout: Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
+
+Dark and Light Mode : This app can automatically adopt to light or dark mode as required for better display and interaction with the user. 
+
+Simple & Easy Views Design: Use of familiar audience EditText with hints and interactive buttons made it easier for Users to move around and explore the app. Apps also use App Navigation to move from ordering food to getting the recipt.The app contains numerous images and different colours so that the user can understand the content better and choose what they like.
+
+Recycler-View: To go back to the user menu and keep searching back and forth until user is sure about what to order and clicks the confirm button.
+ 
+ There is further scope to of making the app map based to that the user can access all the registered shop of a particular area and choose from them.
