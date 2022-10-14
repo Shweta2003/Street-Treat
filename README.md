@@ -39,4 +39,4 @@ Simple & Easy Views Design: Use of familiar audience EditText with hints and int
 
 Recycler-View: To go back to the user menu and keep searching back and forth until user is sure about what to order and clicks the confirm button.
  
- There is further scope to of making the app map based to that the user can access all the registered shop of a particular area and choose from them.
+ There is further scope of making the app map based to that the user can access all the registered shop of a particular area and choose from them.
